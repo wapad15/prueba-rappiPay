@@ -1,0 +1,15 @@
+framework\driver\capabilities\AndroidCapsBuilder.class
+framework\driver\DriverFactory.class
+framework\config\Platform.class
+framework\driver\DriverFactory$1.class
+framework\screens\BaseScreen.class
+framework\screens\MenuScreen.class
+framework\screens\HomeAppScreen.class
+framework\screens\ProductHomeScreen.class
+framework\utils\WaitUtils.class
+framework\config\ConfigManager$1.class
+framework\config\ConfigManager.class
+framework\driver\DriverManager.class
+framework\screens\LoginScreen.class
+framework\logging\LoggerFactoryProvider.class
+framework\screens\LogoutConfirmDialog.class

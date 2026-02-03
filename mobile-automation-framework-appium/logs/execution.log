@@ -1,0 +1,295 @@
+17:10:35.624 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+17:10:38.186 INFO  [main] framework.screens.MenuScreen - Menú: yendo a Login
+17:10:38.468 INFO  [main] framework.screens.LoginScreen - Login: ingresando username
+17:10:39.416 INFO  [main] framework.screens.LoginScreen - Login: ingresando password
+17:10:39.993 INFO  [main] framework.screens.LoginScreen - Login: click en botón Login
+17:10:40.643 INFO  [main] framework.screens.ProductHomeScreen - Products: validando pantalla Products
+17:10:42.121 INFO  [main] framework.screens.ProductHomeScreen - Products: loaded = true
+17:10:42.130 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+17:10:43.181 INFO  [main] framework.screens.MenuScreen - Menú: seleccionando Logout
+17:10:43.427 INFO  [main] f.screens.LogoutConfirmDialog - Logout dialog: confirmando logout (OK)
+17:17:17.068 INFO  [main] framework.driver.DriverFactory - Creando driver para platform=ANDROID | appiumServerUrl=http://127.0.0.1:4723
+17:17:17.100 INFO  [main] framework.driver.DriverFactory - Android caps -> Capabilities {appium:app: C:\Users\wilder.perez\Docum..., appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+17:17:24.860 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+17:17:27.874 INFO  [main] framework.screens.MenuScreen - Menú: yendo a Login
+17:17:28.234 INFO  [main] framework.screens.LoginScreen - Login: ingresando username
+17:17:29.306 INFO  [main] framework.screens.LoginScreen - Login: ingresando password
+17:17:29.898 INFO  [main] framework.screens.LoginScreen - Login: click en botón Login
+17:17:30.498 INFO  [main] framework.screens.ProductHomeScreen - Products: validando pantalla Products
+17:17:32.050 INFO  [main] framework.screens.ProductHomeScreen - Products: loaded = true
+17:17:32.051 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+17:17:33.105 INFO  [main] framework.screens.MenuScreen - Menú: seleccionando Logout
+17:17:33.375 INFO  [main] f.screens.LogoutConfirmDialog - Logout dialog: confirmando logout (OK)
+17:23:20.067 INFO  [main] framework.driver.DriverFactory - Creando driver para platform=ANDROID | appiumServerUrl=http://127.0.0.1:4723
+17:23:20.100 INFO  [main] framework.driver.DriverFactory - Android caps -> Capabilities {appium:app: C:\Users\wilder.perez\Docum..., appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+17:23:26.266 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+17:23:28.772 INFO  [main] framework.screens.MenuScreen - Menú: yendo a Login
+17:23:29.054 INFO  [main] framework.screens.LoginScreen - Login: ingresando username
+17:23:29.991 INFO  [main] framework.screens.LoginScreen - Login: ingresando password
+17:23:30.565 INFO  [main] framework.screens.LoginScreen - Login: click en botón Login
+17:23:31.167 INFO  [main] framework.screens.ProductHomeScreen - Products: validando pantalla Products
+17:23:32.482 INFO  [main] framework.screens.ProductHomeScreen - Products: loaded = true
+17:23:32.484 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+17:23:33.543 INFO  [main] framework.screens.MenuScreen - Menú: seleccionando Logout
+17:23:33.813 INFO  [main] f.screens.LogoutConfirmDialog - Logout dialog: confirmando logout (OK)
+22:32:26.687 INFO  [main] framework.driver.DriverFactory - Creando driver para platform=ANDROID | appiumServerUrl=http://127.0.0.1:4723
+22:32:26.745 INFO  [main] framework.driver.DriverFactory - Android caps -> Capabilities {appium:app: apps/mda-2.2.0-25.apk, appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+22:32:29.047 ERROR [main] framework.driver.DriverFactory - Error creando driver para platform=ANDROID: Could not start a new session. Response code 500. Message: The application at 'C:\Users\wilder.perez\apps\mda-2.2.0-25.apk' does not exist or is not accessible 
+Host info: host: 'SOFTQGJ2M', ip: '192.168.1.4'
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: apps/mda-2.2.0-25.apk, appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}]}]
+Capabilities {appium:app: apps/mda-2.2.0-25.apk, appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: The application at 'C:\Users\wilder.perez\apps\mda-2.2.0-25.apk' does not exist or is not accessible 
+Host info: host: 'SOFTQGJ2M', ip: '192.168.1.4'
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: apps/mda-2.2.0-25.apk, appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}]}]
+Capabilities {appium:app: apps/mda-2.2.0-25.apk, appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61)
+	at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:176)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:237)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:270)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:91)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:103)
+	at io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:109)
+	at framework.driver.DriverFactory.createDriver(DriverFactory.java:28)
+	at tests.BaseTest.setUp(BaseTest.java:19)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:833)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:600)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+22:33:25.803 INFO  [main] framework.driver.DriverFactory - Creando driver para platform=ANDROID | appiumServerUrl=http://127.0.0.1:4723
+22:33:25.831 INFO  [main] framework.driver.DriverFactory - Android caps -> Capabilities {appium:app: apps/mda-2.2.0-25.apk, appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+22:33:27.021 ERROR [main] framework.driver.DriverFactory - Error creando driver para platform=ANDROID: Could not start a new session. Response code 500. Message: The application at 'C:\Users\wilder.perez\apps\mda-2.2.0-25.apk' does not exist or is not accessible 
+Host info: host: 'SOFTQGJ2M', ip: '192.168.1.4'
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: apps/mda-2.2.0-25.apk, appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}]}]
+Capabilities {appium:app: apps/mda-2.2.0-25.apk, appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: The application at 'C:\Users\wilder.perez\apps\mda-2.2.0-25.apk' does not exist or is not accessible 
+Host info: host: 'SOFTQGJ2M', ip: '192.168.1.4'
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: apps/mda-2.2.0-25.apk, appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}]}]
+Capabilities {appium:app: apps/mda-2.2.0-25.apk, appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61)
+	at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:176)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:237)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:270)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:91)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:103)
+	at io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:109)
+	at framework.driver.DriverFactory.createDriver(DriverFactory.java:28)
+	at tests.BaseTest.setUp(BaseTest.java:19)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:833)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:600)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+22:34:43.646 INFO  [main] framework.driver.DriverFactory - Creando driver para platform=ANDROID | appiumServerUrl=http://127.0.0.1:4723
+22:34:43.707 INFO  [main] framework.driver.DriverFactory - Android caps -> Capabilities {appium:app: apps/mda-2.2.0-25.apk, appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+22:34:45.643 ERROR [main] framework.driver.DriverFactory - Error creando driver para platform=ANDROID: Could not start a new session. Response code 500. Message: The application at 'C:\Users\wilder.perez\apps\mda-2.2.0-25.apk' does not exist or is not accessible 
+Host info: host: 'SOFTQGJ2M', ip: '192.168.1.4'
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: apps/mda-2.2.0-25.apk, appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}]}]
+Capabilities {appium:app: apps/mda-2.2.0-25.apk, appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: The application at 'C:\Users\wilder.perez\apps\mda-2.2.0-25.apk' does not exist or is not accessible 
+Host info: host: 'SOFTQGJ2M', ip: '192.168.1.4'
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:app: apps/mda-2.2.0-25.apk, appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}]}]
+Capabilities {appium:app: apps/mda-2.2.0-25.apk, appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61)
+	at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:176)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:237)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:270)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:91)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:103)
+	at io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:109)
+	at framework.driver.DriverFactory.createDriver(DriverFactory.java:28)
+	at tests.BaseTest.setUp(BaseTest.java:19)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:833)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:600)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+22:39:43.331 INFO  [main] framework.driver.DriverFactory - Creando driver para platform=ANDROID | appiumServerUrl=http://127.0.0.1:4723
+22:39:43.361 INFO  [main] framework.driver.DriverFactory - Android caps -> Capabilities {appium:app: C:\Users\wilder.perez\Docum..., appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+22:39:55.249 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+22:39:58.291 INFO  [main] framework.screens.MenuScreen - Menú: yendo a Login
+22:39:58.570 INFO  [main] framework.screens.LoginScreen - Login: ingresando username
+22:39:59.578 INFO  [main] framework.screens.LoginScreen - Login: ingresando password
+22:40:00.155 INFO  [main] framework.screens.LoginScreen - Login: click en botón Login
+22:40:00.801 INFO  [main] framework.screens.ProductHomeScreen - Products: validando pantalla Products
+22:40:02.436 INFO  [main] framework.screens.ProductHomeScreen - Products: loaded = true
+22:40:02.439 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+22:40:03.497 INFO  [main] framework.screens.MenuScreen - Menú: seleccionando Logout
+22:40:03.752 INFO  [main] f.screens.LogoutConfirmDialog - Logout dialog: confirmando logout (OK)
+23:05:22.122 INFO  [main] framework.driver.DriverFactory - Creando driver para platform=ANDROID | appiumServerUrl=http://127.0.0.1:4723
+23:05:22.188 INFO  [main] framework.driver.DriverFactory - Android caps -> Capabilities {appium:app: C:\Users\wilder.perez\Docum..., appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+23:05:37.351 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+23:05:41.109 INFO  [main] framework.screens.MenuScreen - Menú: yendo a Login
+23:05:41.559 INFO  [main] framework.screens.LoginScreen - Login: ingresando username
+23:05:42.784 INFO  [main] framework.screens.LoginScreen - Login: ingresando password
+23:05:43.422 INFO  [main] framework.screens.LoginScreen - Login: click en botón Login
+23:05:44.120 INFO  [main] framework.screens.ProductHomeScreen - Products: validando pantalla Products
+23:05:45.876 INFO  [main] framework.screens.ProductHomeScreen - Products: loaded = true
+23:05:45.879 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+23:05:46.087 INFO  [main] framework.screens.MenuScreen - Menú: seleccionando Logout
+23:05:47.381 INFO  [main] f.screens.LogoutConfirmDialog - Logout dialog: confirmando logout (OK)
+23:10:24.081 INFO  [main] framework.driver.DriverFactory - Creando driver para platform=ANDROID | appiumServerUrl=http://127.0.0.1:4723
+23:10:24.149 INFO  [main] framework.driver.DriverFactory - Android caps -> Capabilities {appium:app: C:\Users\wilder.perez\Docum..., appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+23:10:39.264 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+23:10:42.246 INFO  [main] framework.screens.MenuScreen - Menú: yendo a Login
+23:10:43.736 INFO  [main] framework.screens.LoginScreen - Login: ingresando username
+23:10:45.050 INFO  [main] framework.screens.LoginScreen - Login: ingresando password
+23:10:45.656 INFO  [main] framework.screens.LoginScreen - Login: click en botón Login
+23:10:46.327 INFO  [main] framework.screens.ProductHomeScreen - Products: validando pantalla Products
+23:10:48.127 INFO  [main] framework.screens.ProductHomeScreen - Products: loaded = true
+23:10:48.132 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+23:10:49.222 INFO  [main] framework.screens.MenuScreen - Menú: seleccionando Logout
+23:10:49.620 INFO  [main] f.screens.LogoutConfirmDialog - Logout dialog: confirmando logout (OK)
+23:31:32.367 INFO  [main] framework.driver.DriverFactory - Creando driver para platform=ANDROID | appiumServerUrl=http://127.0.0.1:4723
+23:31:32.459 INFO  [main] framework.driver.DriverFactory - Android caps -> Capabilities {appium:app: C:\Users\wilder.perez\Docum..., appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+23:31:47.465 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+23:31:49.835 INFO  [main] framework.screens.MenuScreen - Menú: yendo a Login
+23:31:51.187 INFO  [main] framework.screens.LoginScreen - Login: ingresando username
+23:31:52.413 INFO  [main] framework.screens.LoginScreen - Login: ingresando password
+23:31:53.045 INFO  [main] framework.screens.LoginScreen - Login: click en botón Login
+23:31:53.761 INFO  [main] framework.screens.ProductHomeScreen - Products: validando pantalla Products
+23:31:56.919 INFO  [main] framework.screens.ProductHomeScreen - Products: loaded = true
+23:31:56.922 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+23:31:58.042 INFO  [main] framework.screens.MenuScreen - Menú: seleccionando Logout
+23:31:58.416 INFO  [main] f.screens.LogoutConfirmDialog - Logout dialog: confirmando logout (OK)
+23:37:24.051 INFO  [main] framework.driver.DriverFactory - Creando driver para platform=ANDROID | appiumServerUrl=http://127.0.0.1:4723
+23:37:24.288 INFO  [main] framework.driver.DriverFactory - Android caps -> Capabilities {appium:app: C:\Users\wilder.perez\Docum..., appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+23:37:48.653 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+23:37:54.893 INFO  [main] framework.screens.MenuScreen - Menú: yendo a Login
+23:37:57.649 INFO  [main] framework.screens.LoginScreen - Login: ingresando username
+23:37:59.727 INFO  [main] framework.screens.LoginScreen - Login: ingresando password
+23:38:00.406 INFO  [main] framework.screens.LoginScreen - Login: click en botón Login
+23:38:01.145 INFO  [main] framework.screens.ProductHomeScreen - Products: validando pantalla Products
+23:38:04.288 INFO  [main] framework.screens.ProductHomeScreen - Products: loaded = true
+23:38:04.293 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+23:38:04.647 INFO  [main] framework.screens.MenuScreen - Menú: seleccionando Logout
+23:38:06.240 INFO  [main] f.screens.LogoutConfirmDialog - Logout dialog: confirmando logout (OK)
+23:39:15.708 INFO  [main] framework.driver.DriverFactory - Creando driver para platform=ANDROID | appiumServerUrl=http://127.0.0.1:4723
+23:39:15.780 INFO  [main] framework.driver.DriverFactory - Android caps -> Capabilities {appium:app: C:\Users\wilder.perez\Docum..., appium:appActivity: com.saucelabs.mydemoapp.and..., appium:appPackage: com.saucelabs.mydemoapp.and..., appium:appWaitActivity: com.saucelabs.mydemoapp.and..., appium:appWaitDuration: 60000, appium:autoGrantPermissions: true, appium:automationName: UIAutomator2, appium:deviceName: Android Emulator, appium:disableWindowAnimation: true, appium:fullReset: false, appium:newCommandTimeout: 120, appium:noReset: false, appium:udid: emulator-5554, platformName: ANDROID}
+23:39:29.507 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+23:39:32.178 INFO  [main] framework.screens.MenuScreen - Menú: yendo a Login
+23:39:33.705 INFO  [main] framework.screens.LoginScreen - Login: ingresando username
+23:39:35.384 INFO  [main] framework.screens.LoginScreen - Login: ingresando password
+23:39:36.045 INFO  [main] framework.screens.LoginScreen - Login: click en botón Login
+23:39:36.755 INFO  [main] framework.screens.ProductHomeScreen - Products: validando pantalla Products
+23:39:39.035 INFO  [main] framework.screens.ProductHomeScreen - Products: loaded = true
+23:39:39.039 INFO  [main] framework.screens.HomeAppScreen - Home: abriendo menú lateral
+23:39:39.322 INFO  [main] framework.screens.MenuScreen - Menú: seleccionando Logout
+23:39:40.608 INFO  [main] f.screens.LogoutConfirmDialog - Logout dialog: confirmando logout (OK)
